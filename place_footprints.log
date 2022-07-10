@@ -1,0 +1,5 @@
+01-30 15:49:41 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 378:Plugin executed on: 'win32'
+01-30 15:49:41 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 379:Plugin executed with python version: '3.9.6 (default, Sep 27 2021, 21:15:11) [MSC v.1929 64 bit (AMD64)]'
+01-30 15:49:41 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 380:KiCad build version: (6.0.0)
+01-30 15:49:41 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 381:Plugin version: 1.1.0
+01-30 15:49:41 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 382:Frame repr: <wx._core.Frame object at 0x000001FE5C8FBAF0>
