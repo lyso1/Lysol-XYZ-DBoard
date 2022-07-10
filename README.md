@@ -4,4 +4,4 @@ This version of the xyz dboard uses the same pinout as c3 unified dboard used on
 
 This version exists because the original alcked a resetable fuse for over current protection. 
 
-There's a pre made panel gerber/project file as well as a BOM and CPL file for JLCPCB prodution and assembly
+There's a pre made panel gerber/project file as well as a BOM and CPL file for JLCPCB prodution and assembly. if you need to change ahy thing bom wise id suggest doing so through the JLCPCB KIcad plugin for easy modification.
