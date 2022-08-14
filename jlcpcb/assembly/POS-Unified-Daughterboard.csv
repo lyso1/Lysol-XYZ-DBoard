@@ -1,0 +1,8 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,4.7n,C_0603_1608Metric,149.11,-90.525,90.0,top
+F1,500mA,Fuse_1206_3216Metric,148.25,-87.65,0.0,top
+J1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12-jlc,136.675,-84.475,180.0,top
+J2,Conn_01x04,JST-SR-4,126.975,-92.475,0.0,top
+R1,5.1k,R_0603_1608Metric,145.63,-90.51,-90.0,top
+R2,5.1k,R_0603_1608Metric,144.14,-91.055,-90.0,top
+R3,1M,R_0805_2012Metric,147.37,-90.715,90.0,top

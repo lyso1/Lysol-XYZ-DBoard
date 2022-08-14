@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC
+500mA,F1,Fuse_1206_3216Metric,C135342
+1M,R3,R_0805_2012Metric,C17514
+5.1k,"R1,R2",R_0603_1608Metric,C23186
+Conn_01x04,J2,JST-SR-4,C2845363
+4.7n,C1,C_0603_1608Metric,C53987
+HRO-TYPE-C-31-M-12,J1,HRO-TYPE-C-31-M-12-jlc,C720629
+Mount-M2,MH2,MountingHole_3.2mm_M3_Pad_Via,
+Mount-M2,MH1,MountingHole_3.2mm_M3_Pad_Via,

@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.8,
-          "width": 1.2
+          "drill": 0.6,
+          "height": 2.2,
+          "width": 1.1
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.15239999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -123,6 +123,7 @@
         0.0,
         0.2,
         0.25,
+        0.3048,
         0.5
       ],
       "via_dimensions": [
@@ -383,8 +384,7 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "nets": [
-          "GND",
-          "VCC"
+          "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -403,9 +403,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Shield",
-        "nets": [
-          "SHIELD"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.8,
@@ -425,7 +423,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../../Logo Design/tkl tech/drive-download-20220203T165733Z-001/Unified-Daughterboard.step",
+      "step": "Unified-Daughterboard.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
